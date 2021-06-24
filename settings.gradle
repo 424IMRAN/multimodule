@@ -1,0 +1,3 @@
+rootProject.name = 'Imran'
+include 'Api-Gateway-Skill'
+include 'Web'
